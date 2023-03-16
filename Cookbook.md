@@ -58,9 +58,12 @@ For each record in the dataset, it is provided:
 - Triaxial Angular velocity from the gyroscope. 
 - A 561-feature vector with time and frequency domain variables. 
 
-### Please see the [README.md](https://github.com/khinmyothantmaw/data-getting-and-cleaning-project/blob/main/README.md) for how the following instructions are implemented 
+### Please see the below for the implementation of the data 
 
 1. Merge the training and the test sets to create one data set.
+
+
+
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive variable names.
